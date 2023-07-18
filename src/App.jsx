@@ -6,7 +6,7 @@ import createNewFlashCard from "./function/createNewFlashCard";
 import LoginCompi from "./compenents/loginComp";
 import "./App.css";
 
-const api_key = "sk_JGyjegw69OOrT4kZlkiJnftM0TCfNxZf4Kkc_vutfJQ";
+const api_key = "NOKEYFORYOU";
 
 function App() {
   const [email, setEmail] = useState("");
